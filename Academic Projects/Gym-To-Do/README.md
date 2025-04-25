@@ -1,4 +1,4 @@
-# 📱 Exercise TODO App
+# 📱 Gym-To-Do App
 
 This is a mobile application I developed using **Kotlin** in **Android Studio** as part of an academic project for my certification.
 
